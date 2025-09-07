@@ -1,0 +1,3 @@
+[submodule "Odoo_Samples"]
+	path = Odoo_Samples
+	url = https://github.com/Yenthe666/Odoo_Samples.git
